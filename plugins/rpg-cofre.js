@@ -13,7 +13,7 @@ let expp = Math.floor(Math.random() * 5000)
   global.db.data.users[m.sender].joincount += tok
   global.db.data.users[m.sender].exp += expp
   
-let texto = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let texto = `╭「 𝙱𝙾𝚃 𝙳𝙴 𝙰𝙽𝙳𝚁𝙴𝚆 」
 │🛒 𝙾𝙱𝚃𝙸𝙴𝙽𝙴𝚂 𝚄𝙽 𝙲𝙾𝙵𝚁𝙴
 │┈┈┈┈┈┈┈┈┈┈┈┈┈
 │➯🍁*${dia}➟Diamantes* 💎
